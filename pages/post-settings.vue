@@ -47,7 +47,7 @@
               <label>{{ t('aiSummary') }}：</label>
               <select v-model="form.aiSummary">
                 <option value="on">{{ t('on') }}</option>
-                <option value="off">{{ t('off') }}</option>
+                <option value="off">{{ t('off') }}</option
               </select>
             </div>
             <div class="form-group small">
